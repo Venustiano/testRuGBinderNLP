@@ -6,5 +6,3 @@ langchain-openai
 openai-chat
 python-dotenv
 groq
-codeium
-codeium-jupyter
