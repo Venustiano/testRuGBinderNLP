@@ -1,5 +1,4 @@
 pandas
-codeium-jupyter
 spacy
 jupyter-ai
 openai
