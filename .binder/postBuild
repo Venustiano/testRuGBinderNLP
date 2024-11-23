@@ -2,8 +2,6 @@
 
 set -ex
 
-jupyter labextension install @codeium/codeium
-
 git clone https://github.com/UG-Team-Data-Science/rugllmlab.git
 cd rugllmlab/rugllm_provider
 pip install .
