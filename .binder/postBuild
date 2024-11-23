@@ -8,4 +8,6 @@ set -ex
 # Install the .whl file using pip
 # pip install /tmp/rugllm_provider-0.1.0-py3-none-any.whl
 
-pip install git+https://github.com/UG-Team-Data-Science/rugllmlab.git#egg=rugllm_provider
+git clone https://github.com/UG-Team-Data-Science/rugllmlab.git
+cd rugllmlab/rugllm_provider
+pip install .
