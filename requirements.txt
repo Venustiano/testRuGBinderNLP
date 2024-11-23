@@ -1,4 +1,5 @@
 pandas
+codeium-jupyter
 spacy
 jupyter-ai
 openai
@@ -6,4 +7,3 @@ langchain-openai
 openai-chat
 python-dotenv
 groq
-codeium-jupyter
